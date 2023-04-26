@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pulmonology"
+        android:title="Pulmonology"
+        android:icon="@drawable/lungss"/>
+
+    <item
+        android:id="@+id/neurology"
+        android:title="Neurology"
+        android:icon="@drawable/brain"/>
+
+    <item
+        android:id="@+id/opthamology"
+        android:title="Opthamology"
+        android:icon="@drawable/baseline_remove_red_eye_24"/>
+
+    <item
+        android:id="@+id/dermology"
+        android:title="Dermology"
+        android:icon="@drawable/baseline_skin_24"/>
+</menu>
